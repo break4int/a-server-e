@@ -1,0 +1,26 @@
+{
+  "name": "a-server-n",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "path":"*",
+    "ejs": "*",
+    "color-util-logs" : "*",
+    "cookie-parser" : "*",
+    "body-parser":"*",
+    "ejs" : "*",
+    "errorhandler" : "*",
+    "morgan" : "*",
+    "mysql" : "*",
+    "passport" : "*",
+    "passport-local" : "*",
+    "node-uuid" : "*",
+    "moment" : "*",
+    "async" : "*",
+    "nodemon" : "*"
+  }
+}
